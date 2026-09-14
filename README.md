@@ -1,1 +1,1 @@
-# my-dalumud-plugins
+# m31-plugins
